@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/fadhilx/boilerplate-bun-nextjs-tanstackquery-prisma-shadcn-with-auth
+git clone https://github.com/fadhilx/boilerplate-bun-nextjs-tanstackquery-prisma-shadcn-with-auth.git myprojectname-next
 cd myprojectname-next
 ```
 
